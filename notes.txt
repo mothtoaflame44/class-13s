@@ -1,0 +1,46 @@
+
+Type	Object-oriented programming language	Scripting language
+Syntax	Statically ty
+
+
+Scripting language
+
+Syntax		Dynamically typed
+Execution	c	Runs in web browsers
+Usage	Server-side applications, desktop apps, Android apps	Server-side applications, desktop apps, Android apps Server-side applications, desktop apps, Android apps
+Compilation	Compiled to bytecode before execution	Interpreted by the browser
+Learning Curve	Steeper learning curve	Easier to learn for beginners
+Concurrency	Supports multi-threading	Single-threaded with event-driven architecture
+Performance	Generally faster due to compilation	Slower compared to compiled languages
+Object-Oriented	Fully object-oriented	Object-oriented but more flexible
+Libraries/Frameworks	Extensive standard libraries, Spring, Hibernate	Numerous libraries like jQuery, React, Angular
+vvvv
+
+
+
+========CSS Color======
+
+1. Color By Name (red, black, blue)
+2. Color By Hex Code (#76AB76) => 
+3. Color By RGB (Red Green Blue)=> rgb(255, 75, 112) => 0-255
+4. Color By RGBA (Red Greem Blue Alpha)=> rgba(255, 75, 112, 0.5) => 0-1
+
+5. Linear Gradient Color System => background-image: linear-gradient(red, green, #76AB76, rgb(255, 75, 112, rgba(255, 75, 112, 0.5)))
+6. Radial Gradiant Color System => background-image: radial-gradient()
+
+#F85606
+
+#F85606
+
+#38A538
+
+
+#767898
+#GH9945
+
+Decimal = 0 1 2 3 4 5 6 7 8 9
+Binary = 0 1 => 0 1
+Octal = 0 1 2 3 4 5 6 7
+Hexa Decimal = 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+vvv

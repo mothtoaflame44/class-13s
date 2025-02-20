@@ -1,0 +1,81 @@
+
+.formm1{
+
+    background-color: rgb(41, 43, 15);
+    height: 700px;
+    width: 500px;
+    margin: auto;
+    border: 1px solid rgb(145, 121, 121);
+    box-sizing: border-box;
+}
+
+
+.inline-element1{
+    width: 90%;
+    height: 20px;
+    margin-left: 15px;
+    border-radius: 6px;
+}
+
+
+.inline-element2{
+    width:400px;
+    margin:15px;
+    height:20px;
+    border-radius: 6px;
+
+}
+
+
+.btn{
+
+padding:4px;
+margin-left: 148px;
+border-radius: 4px;
+height: 30px;
+width: 200px;
+color: rgb(88, 165, 165);
+font-size: medium;
+font: 1em sans-serif;
+
+
+
+}
+
+.text1{
+    margin-bottom: 150px;
+    text-align: center;
+    font-size:x-large;
+    color: rgb(60, 57, 77);
+}
+
+
+
+
+
+        .heide{
+            /* background: radial-gradient(circle, rgb(97, 124, 128) 0%, rgb(75, 77, 78) 100%); */
+         background: linear-gradient(90deg, rgba(111,79,133,1) 0%, rgba(90,167,153,1) 50%, rgba(194,189,183,1) 100%);  
+
+        }
+
+
+        .wer{
+            text-align: center;
+            font-size: medium;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+          }
+          
+          table, th, td {
+            border: 1px solid rgb(156, 141, 141);
+          }
+          
+          th, td {
+            padding: 15px;
+            text-align: left;
+          }
+        
